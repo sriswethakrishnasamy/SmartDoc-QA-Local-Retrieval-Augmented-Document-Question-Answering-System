@@ -1,0 +1,2 @@
+# SmartDoc-QA-Local-Retrieval-Augmented-Document-Question-Answering-System
+Project Objective To build an intelligent, offline-capable document question answering system using Retrieval-Augmented Generation (RAG). The system allows users to upload documents (PDF, DOCX, TXT), ask natural language questions, and receive accurate answers based on the document content — all without relying on cloud APIs.
